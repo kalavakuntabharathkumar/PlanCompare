@@ -1,0 +1,1 @@
+<template><aside class="method-note"><strong>How the estimate works</strong><p>The calculator applies remaining deductible first, then member coinsurance and a service co-pay. It is a planning aid, not a coverage decision.</p></aside></template>
