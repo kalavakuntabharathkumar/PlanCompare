@@ -5,6 +5,8 @@ An employee-facing insurance plan comparison app with an auditable out-of-pocket
 ## Stack
 Vue 3 · TypeScript · Pinia · Vite · Vitest · Python · FastAPI · Pydantic · SQLite · pytest
 
+### Deployment Link: https://plancompare-1.onrender.com/
+
 ## Start
 
 Backend:
